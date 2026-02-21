@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kendrick-filbert/"><img src="https://img.shields.io/badge/LinkedIn-Kendrick%20Filbert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:kendrickfilbert@yahoo.com"><img src="https://img.shields.io/badge/Email-letscook6565%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:kendrickfilbert@yahoo.com"><img src="https://img.shields.io/badge/Email-kendrickfilbert%40yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="Email"></a>
   <a href="https://huggingface.co/kendrickfff"><img src="https://img.shields.io/badge/🤗%20HuggingFace-kendrickfff-yellow?style=flat-square" alt="HuggingFace"></a>
   <a href="https://github.com/kendrickassignment"><img src="https://img.shields.io/badge/Microsoft%20MVP-1st%20of%201%2C300+-purple?style=flat-square&logo=microsoft" alt="Microsoft MVP"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrickassignment.kendrickassignment&left_color=green&right_color=red" alt="Profile Views">
@@ -34,7 +34,7 @@ RAG-powered app offering first-aid level mental health support for trauma, suici
 ### 🗑️ [ResNet50 Garbage Classification](https://huggingface.co/spaces/kendrickfff/resnet50_garbage_classification_v1.2)
 Fine-tuned **ResNet50** model categorizing waste into 12 types across 15,000+ images — achieved **98.66% test accuracy**. Deployed as an interactive **Gradio** web app.
 
-### 🔍 [Ken's Tech Translator](https://huggingface.co/spaces/kendrickfff/kenstechtranslator) *(Microsoft AI Hackathon)*
+### 🔍 [Ken's Tech Translator](https://huggingface.co/spaces/kendrickfff/kenstechtranslator)
 AI web app using **Python, Flask, Google Gemini** to bridge communication gaps between technical and non-technical teams by translating jargon into clear business summaries.
 
 ---
