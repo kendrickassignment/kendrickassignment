@@ -1,8 +1,8 @@
 # 👋 Greetings, I'm Kendrick!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kendrickfilbert/"><img src="https://img.shields.io/badge/LinkedIn-Kendrick%20Filbert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:letscook6565@gmail.com"><img src="https://img.shields.io/badge/Email-letscook6565%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kendrick-filbert/"><img src="https://img.shields.io/badge/LinkedIn-Kendrick%20Filbert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:kendrickfilbert@yahoo.com"><img src="https://img.shields.io/badge/Email-letscook6565%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://huggingface.co/kendrickfff"><img src="https://img.shields.io/badge/🤗%20HuggingFace-kendrickfff-yellow?style=flat-square" alt="HuggingFace"></a>
   <a href="https://github.com/kendrickassignment"><img src="https://img.shields.io/badge/Microsoft%20MVP-1st%20of%201%2C300+-purple?style=flat-square&logo=microsoft" alt="Microsoft MVP"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrickassignment.kendrickassignment&left_color=green&right_color=red" alt="Profile Views">
@@ -76,7 +76,7 @@ AI web app using **Python, Flask, Google Gemini** to bridge communication gaps b
 
 If you're building **AI tools for real-world needs**, **scalable empathetic products**, or **inclusive platforms for education & impact** — let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendrickfilbert/)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendrick-filbert/)
 
 ---
 
