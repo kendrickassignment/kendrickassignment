@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kendrickfilbert/"><img src="https://img.shields.io/badge/LinkedIn-Kendrick%20Filbert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:kendrickfilbert@yahoo.com"><img src="https://img.shields.io/badge/Email-letscook6565%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:letscook6565@gmail.com"><img src="https://img.shields.io/badge/Email-letscook6565%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://huggingface.co/kendrickfff"><img src="https://img.shields.io/badge/🤗%20HuggingFace-kendrickfff-yellow?style=flat-square" alt="HuggingFace"></a>
   <a href="https://github.com/kendrickassignment"><img src="https://img.shields.io/badge/Microsoft%20MVP-1st%20of%201%2C300+-purple?style=flat-square&logo=microsoft" alt="Microsoft MVP"></a>
-  <img src="https://komarev.com/ghpvc/?username=kendrickassignment&label=Visitor&color=brightgreen&style=flat-square" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrickassignment.kendrickassignment&left_color=green&right_color=red" alt="Profile Views">
 </p>
 
 I'm a **Product, AI & Social Impact Enthusiast** obsessed with building meaningful, inclusive products where technology, business value, and human experience converge. Curious about how systems work — technically, strategically, and humanely.
@@ -31,10 +31,10 @@ AI-powered product management copilot that helps PMs make data-informed decision
 ### 💚 [MHFA Buddy — Mental Health First Aid Companion](https://huggingface.co/spaces/kendrickfff/mhfa-buddy)
 RAG-powered app offering first-aid level mental health support for trauma, suicidal thoughts, psychosis, and panic attacks. Achieved **95% hallucination reduction**, **1,200+ real interactions**, and **90%+ positive feedback**. Built with **Azure AI Foundry (GPT-5), Supabase, LangChain, Gradio**. Bilingual 🇮🇩 🇬🇧.
 
-### 🗑️ ResNet50 Garbage Classification
+### 🗑️ [ResNet50 Garbage Classification](https://huggingface.co/spaces/kendrickfff/resnet50_garbage_classification_v1.2)
 Fine-tuned **ResNet50** model categorizing waste into 12 types across 15,000+ images — achieved **98.66% test accuracy**. Deployed as an interactive **Gradio** web app.
 
-### 🔍 Ken's Tech Translator *(Microsoft AI Hackathon)*
+### 🔍 [Ken's Tech Translator](https://huggingface.co/spaces/kendrickfff/kenstechtranslator) *(Microsoft AI Hackathon)*
 AI web app using **Python, Flask, Google Gemini** to bridge communication gaps between technical and non-technical teams by translating jargon into clear business summaries.
 
 ---
@@ -81,11 +81,11 @@ If you're building **AI tools for real-world needs**, **scalable empathetic prod
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kendrickassignment&show_icons=true&theme=radical&hide_border=true" alt="Kendrick's GitHub Stats" />
+  <img src="https://github-readme-stats-kendricks.vercel.app/api?username=kendrickassignment&show_icons=true&theme=radical&hide_border=true" alt="Kendrick's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendrickassignment&theme=radical&hide_border=true" alt="Kendrick's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendrickassignment&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-kendricks.vercel.app/api/top-langs/?username=kendrickassignment&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
