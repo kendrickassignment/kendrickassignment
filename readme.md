@@ -81,11 +81,11 @@ If you're building **AI tools for real-world needs**, **scalable empathetic prod
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-kendricks.vercel.app/api?username=kendrickassignment&show_icons=true&theme=radical&hide_border=true" alt="Kendrick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kendrickassignment&show_icons=true&theme=radical&hide_border=true" alt="Kendrick's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendrickassignment&theme=radical&hide_border=true" alt="Kendrick's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-kendricks.vercel.app/api/top-langs/?username=kendrickassignment&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendrickassignment&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
