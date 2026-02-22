@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/kendrick-filbert/"><img src="https://img.shields.io/badge/LinkedIn-Kendrick%20Filbert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:kendrickfilbert@yahoo.com"><img src="https://img.shields.io/badge/Email-kendrickfilbert%40yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="Email"></a>
   <a href="https://huggingface.co/kendrickfff"><img src="https://img.shields.io/badge/🤗%20HuggingFace-kendrickfff-yellow?style=flat-square" alt="HuggingFace"></a>
-  <a href="https://github.com/kendrickassignment"><img src="https://img.shields.io/badge/Microsoft%20MVP-1st%20of%201%2C300+-purple?style=flat-square&logo=microsoft" alt="Microsoft MVP"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrickassignment.kendrickassignment&left_color=green&right_color=red" alt="Profile Views">
 </p>
 
